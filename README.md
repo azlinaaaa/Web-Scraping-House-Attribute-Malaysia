@@ -187,7 +187,7 @@ Then insert in README:
 
 ```markdown
 ## 📊 Putrajaya Dataset Preview
-![Putrajaya Dataset](https://github.com/azlinaaaa/Web-Scraping-House-Attribute-Malaysia/blob/36a47d621f512716f74bd370f17c16cf9d151e38/Dataset-Preview/Putrajaya.png))
+![Putrajaya Dataset](https://github.com/azlinaaaa/Web-Scraping-House-Attribute-Malaysia/blob/36a47d621f512716f74bd370f17c16cf9d151e38/Dataset-Preview/Putrajaya.png)
 
 ## 📊 Sabah Dataset Preview
 ![Sabah Dataset](https://github.com/azlinaaaa/Web-Scraping-House-Attribute-Malaysia/blob/36a47d621f512716f74bd370f17c16cf9d151e38/Dataset-Preview/Sabah.png)
