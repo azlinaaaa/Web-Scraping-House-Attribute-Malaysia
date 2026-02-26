@@ -183,17 +183,12 @@ project-folder/
     ├── sabah_preview.png
 ```
 
-Then insert in README:
 
-```markdown
 ## 📊 Putrajaya Dataset Preview
 ![Putrajaya Dataset Preview](https://raw.githubusercontent.com/azlinaaaa/Web-Scraping-House-Attribute-Malaysia/main/Dataset-Preview/Putrajaya.png)
 
 ## 📊 Sabah Dataset Preview
 ![Sabah Dataset Preview](https://raw.githubusercontent.com/azlinaaaa/Web-Scraping-House-Attribute-Malaysia/main/Dataset-Preview/Sabah.png)
-```
-
----
 
 ## 🔎 Data Quality Considerations
 
