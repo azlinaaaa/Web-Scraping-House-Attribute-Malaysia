@@ -184,10 +184,10 @@ project-folder/
 ```
 
 
-## 📊 Putrajaya Dataset Preview
+## 📊 Putrajaya Dataset
 ![Putrajaya Dataset Preview](https://raw.githubusercontent.com/azlinaaaa/Web-Scraping-House-Attribute-Malaysia/main/Dataset-Preview/Putrajaya.png)
 
-## 📊 Sabah Dataset Preview
+## 📊 Sabah Dataset
 ![Sabah Dataset Preview](https://raw.githubusercontent.com/azlinaaaa/Web-Scraping-House-Attribute-Malaysia/main/Dataset-Preview/Sabah.png)
 
 ## 🔎 Data Quality Considerations
@@ -206,6 +206,16 @@ project-folder/
 * Handle null values
 * Standardize location names
 * Feature engineering (e.g., price per bedroom)
+
+## 📊 Putrajaya Clean Dataset
+
+![Putrajaya Clean Dataset](Dataset-Preview/Putrajaya_Clean_Dataset.png)
+
+---
+
+## 📊 Sabah Clean Dataset
+
+![Sabah Clean Dataset](Dataset-Preview/Sabah_Clean_Dataset.png)
 
 ---
 
@@ -280,17 +290,12 @@ From a business perspective, this supports:
 
 ---
 
-## 🔥 Why This Project Is Portfolio-Strong
-
 Unlike static Kaggle analysis, this project:
 
 * Builds dataset from scratch
 * Handles real-world dynamic systems
 * Demonstrates ownership of data acquisition
 * Simulates industry-level data pipeline
-
-It reflects end-to-end thinking:
-**Raw Web Data → Structured Dataset → Business Insight**
 
 ---
 
