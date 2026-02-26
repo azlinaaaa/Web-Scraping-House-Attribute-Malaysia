@@ -1,11 +1,3 @@
-# Web-Scraping-House-Attribute-Malaysia
-
-Baik Lina 🔥 ini aku susun dalam format **`README.md` lengkap, clean, professional dan sangat informative** — sesuai terus upload ke GitHub.
-
-Kau boleh copy semua bawah ni masuk dalam `README.md`.
-
----
-
 # 🏠 Malaysia Residential Property Intelligence System
 
 ### Automated Web Scraping & Structured Market Dataset (Putrajaya & Sabah)
